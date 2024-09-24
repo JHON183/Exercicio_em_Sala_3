@@ -19,3 +19,5 @@ Montagem na Protoboard:
 
 Utilize a protoboard para organizar as conexões dos LEDs, resistores e fios ao Arduino.
 Os fios de conexão (jumpers) podem ser usados para ligar os pinos do Arduino aos LEDs montados na protoboard.
+
+![Mighty Wluff (2)](https://github.com/user-attachments/assets/7bda461a-4e72-4567-af5f-eecaf4d9bc0f)
